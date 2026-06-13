@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FintechCopilot.Api/FintechCopilot.Api.csproj" />
+  <Project Path="FintechCopilot.Application/FintechCopilot.Application.csproj" />
+  <Project Path="FintechCopilot.Domain/FintechCopilot.Domain.csproj" />
+  <Project Path="FintechCopilot.Infrastructure/FintechCopilot.Infrastructure.csproj" />
+  <Project Path="FintechCopilot.Tests/FintechCopilot.Tests.csproj" />
+</Solution>
